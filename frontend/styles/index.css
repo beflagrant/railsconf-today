@@ -49,6 +49,11 @@ h3 {
   line-height: 1.2;
 }
 
+blockquote {
+  background-color: #ffb088;
+  padding: 1rem;
+  margin: 1rem;
+}
 body > header {
   margin: 1rem;
   text-align: center;
