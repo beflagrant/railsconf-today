@@ -1,0 +1,11 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.metadata.title }}, {{ site.metadata.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.metadata.myvariable }}.
+
+title: RailsConf 2023
+tagline: (Un)official list of (un)official events
+email: railsconf2023@beflagrant.com
+description: >-
+  A community sourced list of events happening in and around RailsConf 2023
