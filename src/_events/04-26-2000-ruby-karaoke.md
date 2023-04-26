@@ -14,6 +14,7 @@ We have two rooms for 30 people each, so a total of 60 people allowed. The offic
 
 They do have a dress code and a few rules, so let's make sure to follow:
 
+<blockquote>
 AGE RESTRICTION
 21+ with a valid ID. NO EXCEPTIONS.
 
@@ -28,7 +29,7 @@ IF WE FIND IT OR WE SMELL IT, YOU AND YOUR PARTY WILL BE ASKED TO LEAVE
 
 DAMAGE HOOKAHS
 IF YOU DAMAGE A HOOKAH A REPLACEMENT FEE OF $100 WILL BE ADDED TO YOUR BILL
-
+</blockquote>
 Anyways, that should about cover details.
 
 
